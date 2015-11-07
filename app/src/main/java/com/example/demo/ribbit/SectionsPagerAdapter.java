@@ -2,11 +2,8 @@ package com.example.demo.ribbit;
 
 import android.support.v4.app.Fragment;
 import android.content.Context;
-
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-
-import android.content.Context;
 
 import java.util.Locale;
 
